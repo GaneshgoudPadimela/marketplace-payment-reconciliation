@@ -1,0 +1,3 @@
+package com.ganesh.recon;
+import org.springframework.boot.SpringApplication; import org.springframework.boot.autoconfigure.SpringBootApplication;
+@SpringBootApplication public class ReconApplication { public static void main(String[] a){SpringApplication.run(ReconApplication.class,a);} }
