@@ -1,0 +1,2 @@
+spring: {application: {name: payment-reconciliation}}
+server: {port: 8081}
